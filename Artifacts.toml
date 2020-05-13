@@ -15,3 +15,11 @@ os = "macos"
     [[fplll.download]]
     sha256 = "587216e0281938f27d40391cf5167f71f8a9286ad7347fd175f1ea10a2490a54"
     url = "https://github.com/imciner2/fplll_jll.jl/releases/download/fplll-v5.3.2+0/fplll.v5.3.2.x86_64-apple-darwin14.tar.gz"
+[[fplll]]
+arch = "x86_64"
+git-tree-sha1 = "6204a8e3e79a72084c746b52bf633fce5f99aec4"
+os = "windows"
+
+    [[fplll.download]]
+    sha256 = "51fd1db8490fd0af7da3dab46f89aa4a0c491d5d63280d696da142a567b6e19c"
+    url = "https://github.com/imciner2/fplll_jll.jl/releases/download/fplll-v5.3.2+0/fplll.v5.3.2.x86_64-w64-mingw32.tar.gz"
