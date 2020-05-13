@@ -1,9 +1,9 @@
 [[fplll]]
 arch = "x86_64"
-git-tree-sha1 = "95c7d2c55d4e77558bd70dddc7c0f46f27cecafe"
+git-tree-sha1 = "dabdb913ccc9565e2508e9c86f1f17050f4aed9d"
 libc = "glibc"
 os = "linux"
 
     [[fplll.download]]
-    sha256 = "dd3a27e0836c9e183b5ec62ad87fdcb008ea822585a4d027811593f6d0d251d0"
+    sha256 = "0a2c27e76020e8b9abe751b33d9fc26e53a4a3e9c170d3038908c21178b2eb10"
     url = "https://github.com/imciner2/fplll_jll.jl/releases/download/fplll-v5.3.2+0/fplll.v5.3.2.x86_64-linux-gnu.tar.gz"
